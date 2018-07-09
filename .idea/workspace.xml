@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4cc125-c86d-4e06-a9bc-a9d4c8f00ebe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/computed_properties.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/js/vue_computedprops.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/computed_set_get.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="isntances.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/isntances.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Introduction.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/Introduction.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="computed_properties.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="computed_properties.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/computed_properties.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -95,6 +84,15 @@
                 <element signature="n#style#0;n#h1#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="computed_set_get.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/computed_set_get.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -122,8 +120,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -152,6 +150,7 @@
         <option value="$PROJECT_DIR$/examples/dynamic_components.html" />
         <option value="$PROJECT_DIR$/examples/js/vue_computedprops.js" />
         <option value="$PROJECT_DIR$/examples/computed_properties.html" />
+        <option value="$PROJECT_DIR$/examples/computed_set_get.html" />
       </list>
     </option>
   </component>
@@ -250,12 +249,12 @@
       <updated>1530724183184</updated>
       <workItem from="1530724187067" duration="504000" />
       <workItem from="1531058953404" duration="5751000" />
-      <workItem from="1531135913472" duration="2838000" />
+      <workItem from="1531135913472" duration="3138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9093000" />
+    <option name="totallyTimeSpent" value="9393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
@@ -430,6 +429,13 @@
             <element signature="n#style#0;n#h1#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/computed_set_get.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
         </state>
       </provider>
     </entry>
