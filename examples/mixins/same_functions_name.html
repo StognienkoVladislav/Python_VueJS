@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../js/vue.js"></script>
+</head>
+<body>
+    <div id="databinding"></div>
+    <script type="text/javascript">
+        var mixin = {
+            methods:{
+                helloword:function () {
+                    console.log('In HelloWorld');
+                },
+                samemethod:function () {
+                    console.log('Mixin: Same Method');
+                }
+            }
+        };
+        var vm = new Vue({
+           mixins:[mixin],
+           methods:{
+               start:function () {
+                   console.log('start method');
+               },
+               samemethod:function () {
+                   console.log('Main: same method');
+               }
+           }
+        });
+        vm.helloword();
+        vm.start();
+        vm.samemethod();
+    </script>
+</body>
+</html>
